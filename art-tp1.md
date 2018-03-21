@@ -43,3 +43,11 @@ Sección segunda - De los hechos y actos jurídicos que producen la adquisición
         * *Art. 1.071 bis.* El que arbitrariamente se entrometiere en la vida ajena, publicando retratos, difundiendo correspondencia, mortificando a otros en sus costumbres o sentimientos, o perturbando de cualquier modo su intimidad, y el hecho no fuere un delito penal, será obligado a cesar en tales actividades, si antes no hubieren cesado, y a pagar una indemnización que fijará equitativamente el juez, de acuerdo con las circunstancias; además, podrá éste, a pedido del agraviado, ordenar la publicación de la sentencia en un diario o periódico del lugar, si esta medida fuese procedente para una adecuada reparación.
         * *Art. 1.072.* El acto ilícito ejecutado a sabiendas y con intención de dañar la persona o los derechos de otro, se llama en este código "delito".
         * *Art. 1.077.* Todo delito hace nacer la obligación de reparar el perjuicio que por él resultare a otra persona.
+
+# Links útiles para el tp
+
+* Cámaras
+    * [Fallo a favor de usar grabaciones de terceros como pruebas] (http://www.abogados.com.ar/validez-de-grabaciones-obtenidas-extrajudicialmente/18052), [otro link del mismo fallo] (https://www.infobae.com/politica/2017/05/19/sirven-las-grabaciones-como-prueba-un-caso-argentino-podria-ser-esclarecedor-en-el-escandalo-brasileno/).
+    *  [Libro general sobre uso de escuchas] (http://www.rubinzal.com.ar/libros/grabaciones-escuchas-telefonicas-y-filmaciones-como-medios-de-prueba/3467/).
+    *  [Caso jujuy] (http://www.jujuyaldia.com.ar/2016/10/24/sirven-las-grabaciones-de-conversaciones-como-prueba-en-el-proceso-laboral/).
+    *  [Estado sobre el uso de medios electrónicos como pruebas] (http://www.saij.gob.ar/mercedes-rivolta-medios-prueba-electronicos-estado-avance-legislacion-argentina-dacc070049-2007/123456789-0abc-defg9400-70ccanirtcod?&o=2&f=Total%7CFecha%7CEstado%20de%20Vigencia%5B5%2C1%5D%7CTema/Derecho%20civil/ejercicio%20de%20los%20derechos/acci%F3n%20civil%7COrganismo%5B5%2C1%5D%7CAutor%5B5%2C1%5D%7CJurisdicci%F3n%5B5%2C1%5D%7CTribunal%5B5%2C1%5D%7CPublicaci%F3n%5B5%2C1%5D%7CColecci%F3n%20tem%E1tica%5B5%2C1%5D%7CTipo%20de%20Documento/Doctrina&t=11)
