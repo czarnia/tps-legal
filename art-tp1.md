@@ -1,6 +1,6 @@
-### Artículos útiles para el tp
+# Artículos útiles para el tp
 
-# Problemas de humo
+## Problemas de humo
 
 * *Libro II - De los derechos personales en las relaciones civiles.
 Sección segunda - De Los hechos y actos jurídicos que producen la adquisición, modificación, transferencia o extinción de los derechos y obligaciones.*
@@ -13,6 +13,33 @@ Sección segunda - De Los hechos y actos jurídicos que producen la adquisicio
         * *Art. 2.514.* El ejercicio de estas facultades no puede ser restringido en tanto no fuere abusivo, aunque privare a terceros de ventajas o comodidades.
     * *Título VI. De las restricciones y límites del dominio. Art. 2.618.* Las molestias que ocasionen el humo, calor, olores, luminosidad, ruidos, vibraciones o daños similares por el ejercicio de actividades en inmuebles vecinos, no deben exceder la normal tolerancia teniendo en cuenta las condiciones del lugar y aunque mediare autorización administrativa para aquéllas.
 
-# Compra de computadoras
+## Compra de computadoras
 
-# Cámaras
+* *Libro II - De los derechos personales en las relaciones civiles
+Sección tercera - De las obligaciones que nacen de los contratos*
+    * *Título III. Del contrato de compra y venta. Art. 1.323.* Habrá compra y venta cuando una de las partes se obligue a transferir a la otra la propiedad de una cosa, y ésta se obligue a recibirla y a pagar por ella un precio cierto en dinero.
+    
+    * *Capítulo I. De la cosa vendida*
+        * *Art. 1.338.* Cuando las cosas se vendiesen como de una calidad determinada, y no al gusto personal del comprador, no dependerá del arbitrio de éste rehusar la cosa vendida. El vendedor, probando que la cosa es de la calidad contratada, puede pedir el pago del precio.
+
+    * *Capítulo IV. De las cláusulas especiales que pueden ser agregadas al contrato de compra y venta*
+        * *Art. 1.384.* El vendedor queda obligado a reembolsar al comprador, no sólo el precio de la venta, sino los gastos hechos por ocasión de la entrega de la cosa vendida, los gastos del contrato, como también las mejoras en la cosa que no sean voluntarias; y no puede entrar en posesión de la cosa, sino después de haber satisfecho estas obligaciones.
+        * *Art. 1.385.* El comprador está obligado a restituir la cosa con todos sus accesorios, y a responder de la pérdida de la cosa y de su deterioro causado por su culpa.
+    
+    * *Título XIV. De los vicios redhibitorios*
+        * *Art. 2.164.* Son vicios redhibitorios los defectos ocultos de la cosa, cuyo dominio, uso o goce se transmitió por título oneroso, existentes al tiempo de la adquisición, que la hagan impropia para su destino, si de tal modo disminuyen el uso de ella que al haberlos conocido el adquirente, no la habría adquirido, o habría dado menos por ella.
+        * *Art. 2.168.* Incumbe al adquirente probar que el vicio existía al tiempo de la adquisición, y no probándolo se juzga que el vicio sobrevino después.
+        * *Art. 2.170.* El enajenante está también libre de la responsabilidad de los vicios redhibitorios, si el adquirente los conocía o debía conocerlos por su profesión u oficio.
+        * *Art. 2.173.* Entre compradores y vendedores, no habiendo estipulación sobre los vicios redhibitorios, el vendedor debe sanear al comprador los vicios o defectos ocultos de la cosa aunque los ignore; pero no está obligado a responder por los vicios o defectos aparentes.
+        * *Art. 2.174.* En el caso del artículo anterior, el comprador tiene la acción redhibitoria para dejar sin efecto el contrato, volviendo la cosa al vendedor, restituyéndole éste el precio pagado, o la acción para que se baje del precio el menor valor de la cosa por el vicio redhibitorio.
+        * *Art. 2.175.* El comprador podrá intentar una u otra acción, pero no tendrá derecho para intentar una de ellas, después de ser vencido o de haber intentado la otra.
+        * *Art. 2.176.* Si el vendedor conoce o debía conocer, por razón de su oficio o arte, los vicios o defectos ocultos de la cosa vendida, y no los manifestó al comprador, tendrá éste a más de las acciones de los artículos anteriores, el derecho a ser indemnizado de los daños y perjuicios sufridos, si optare por la rescisión del contrato.
+
+## Cámaras
+
+* *Libro II - De los derechos personales en las relaciones civiles
+Sección segunda - De los hechos y actos jurídicos que producen la adquisición, modificación, transferencia o extinción de los derechos y obligaciones*
+    * *Título VIII. De los actos ilícitos*
+        * *Art. 1.071 bis.* El que arbitrariamente se entrometiere en la vida ajena, publicando retratos, difundiendo correspondencia, mortificando a otros en sus costumbres o sentimientos, o perturbando de cualquier modo su intimidad, y el hecho no fuere un delito penal, será obligado a cesar en tales actividades, si antes no hubieren cesado, y a pagar una indemnización que fijará equitativamente el juez, de acuerdo con las circunstancias; además, podrá éste, a pedido del agraviado, ordenar la publicación de la sentencia en un diario o periódico del lugar, si esta medida fuese procedente para una adecuada reparación.
+        * *Art. 1.072.* El acto ilícito ejecutado a sabiendas y con intención de dañar la persona o los derechos de otro, se llama en este código "delito".
+        * *Art. 1.077.* Todo delito hace nacer la obligación de reparar el perjuicio que por él resultare a otra persona.
