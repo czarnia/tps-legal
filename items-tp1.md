@@ -1,13 +1,13 @@
-1.2. ¿En qué caso podemos solicitar que cesen los olores?
+### 1.2. ¿En qué caso podemos solicitar que cesen los olores?
 
 Según el art 1973 podríamos solicitar que cesen los olores en caso de que "excedan la normal tolerancia teniendo en cuenta las condiciones del lugar". Amparados en el art 1886 que otorga el derecho de hacer valer la preferencia con respecto a un derecho obtenido anteriormente (el del uso de las oficionas) y buscando la reparación plena de nuestros derechos luego de ser los mismos afectados según el art 1740, podríamos pedir que cesen los olores, que se remueva la causa de la molestia o una indemnización como considera el primer artículo (1973). Esto último es consistente con el art 1738 que estipula que la indemnización es una medida a tomar frente a (entre otras) la disminución de los derechos del afectado, en este caso, el uso de su propiedad.
 
-1.3. ¿Es importante averiguar si la parrilla está habilitada por el GCBA?
+### 1.3. ¿Es importante averiguar si la parrilla está habilitada por el GCBA?
 
 No, porque según los artículos 1737 y 1738 estamos recibiendo un daño y tiene que haber una reparación sin importar si la parrilla está habilitada o no.
 En particular, el artículo que otorga derecho a solicitar que cesen los olores determina que esto se puede pedir en el caso de que los mismos excedan la normal tolerancia, sin mencionar si los causantes de esta molestia tuviesen o no permisos.  Además, en el mismo artículo se enuncia que se puede solicitar el cese de olores "aunque medie autorización administrativa".
 
-2.2. ¿Qué acciones podríamos tomar ante esta situación?
+### 2.2. ¿Qué acciones podríamos tomar ante esta situación?
 
 Según el art 1054, tenemos la carga de denunciar el defecto al vendedor; y si no lo hacemos libramos al vendedor de su responsabilidad por los defectos ocultos. Como se trata de un vicio redhibitorio, definido en el artículo 1051, podemos tomar alguna de las siguientes acciones, dependiendo si el vicio sea subsaneable o no (art. 1039):
 
@@ -22,26 +22,27 @@ Sin embargo el artículo 1053 establece en el inciso b que quedan excluídos de 
 
 Obs: creo que el artículo 1151 refiere a los problemas que pueden ocurrir en el envío del producto. {y, por el art 1151, el vendedor debe hacerse cargo de los daños.}
 
-2.3 Características de los vicios redhibitorios
+### 2.3 Características de los vicios redhibitorios
 
 Los vicios redhibitorios están definidos en el art. 1051, inciso b; como los defectos que hacen a una cosa impropia para su destino por razones estructurales o funcionales o bien que disminuyen su utilidad a tal extremo que el adquiriente no la habría adquirido o hubiera dado por ella una contraprestación de menor valor.
 
-2.4 Analice la siguiente situación: "Nosotros teníamos conocimientos de los defectos al momento de la entrega".
+### 2.4 Analice la siguiente situación: "Nosotros teníamos conocimientos de los defectos al momento de la entrega".
 
-Según el art 1053, si nosotros al comprar teníamos conocimientos de los defectos, no podemos exigir nada.
+Según el art 1053, si nosotros al comprar teníamos conocimientos de los defectos, no podemos exigir nada. Esto sería equivalente a haber renunciado originalmente a nuestros derechos de recibir el producto en condiciones.
 
-3.1 ¿Es legal el accionar de nuestro jefe?
+### 3.1 ¿Es legal el accionar de nuestro jefe?
 
 El artículo 53 establece que cualquier captura y/o reproducción de la imágen de una persona, ya sea en forma auditiva, visual o audiovisual se considera ilícita si no se dispone del consentimiento de tal persona, o se cae en uno de los casos enumerados en los incisos del art. 53.
 
 Como el enunciado establece que "luego de unos días" nos enteramos que las cámaras además graban audio, esto quiere decir que éstas estuvieron funcionando, capturando audio sin nuestro consentimiento. Esto constituye una acción ilícita.
 
-3.2 ¿Podría tomar alguna filmación para justificar un despido?
+### 3.2 ¿Podría tomar alguna filmación para justificar un despido?
 
-Creo que no, aunque depende mucho de la circunstancia. Si el motivo de despido fuera alguna actividad ilegal desarrollada por un empleado dentro de la empresa, podría llegar a usarse las filmaciones en un juicio contra el empleado, ha habido casos en los que filmaciones y audios grabados sin consentimiento fueron usados como pruebas válidas en casos judiciales.
+Creo que no, aunque depende mucho de la circunstancia. Si el motivo de despido fuera alguna actividad ilegal desarrollada por un empleado dentro de la empresa, podría llegar a usarse las filmaciones en un juicio contra el empleado, ha habido casos en los que filmaciones y audios grabados sin consentimiento fueron usados como pruebas válidas en casos judiciales. Además, en el caso del código civil de la provincia de Tucumán se encuentra un artículo que considera lícito el uso de grabaciones de terceros como pruebas en juicios.
 
 No obstante, el artículo 53 ampara a los empleados siendo filmados/grabados, pues éstos jamás dieron su consentimiento. Distinto sería si antes de instalar las cámaras se comunicara de las mismas a toda la emprese, pudiendo cada empleado expresar su consentimiento, o iniciar acciones legales.
 
-3.3
+### 3.3 ¿Existiría alguna diferencia en el caso que las cámaras estén sin sonido y en el exterior de la oficina apuntando hacia la calle?
 
-Creería que la cosa es distinta, pero no encontré ningún artículo que sirva como justificación :disappointed:
+Si las cámaras estuvieran sin sonido, siguiendo lo que se plantea en el enunciado, los trabajadores tendrían conocimiento de las filmaciones. De esta manera, las mismas no estarían violando ningún derecho (o como se planteó en el punto 2.4, habríamos renunciado a los mismos) y sería legal el accionar del jefe. Frente a este caso, si en un nuevo juicio se cumpliera lo determinado en los fallos anteriores, se podría justificar un despido con estas grabaciones.
+En el segundo caso, en un juicio, se podría apelar a que la grabación no era sobre empleados (o no sobre los empleados en su momento laboral) no pudiendo entonces usar el amparo del art 53.
