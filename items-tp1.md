@@ -33,4 +33,14 @@ Según el art 1053, si nosotros al comprar teníamos conocimientos de los defect
 
 El artículo 53 establece que cualquier captura y/o reproducción de la imágen de una persona, ya sea en forma auditiva, visual o audiovisual se considera ilícita si no se dispone del consentimiento de tal persona, o se cae en uno de los casos enumerados en los incisos del art. 53.
 
-Como el enunciado establece que "luego de unos días" nos enteramos que las cámaras además graban audio, esto quiere decir que éstas estuvieron funcionando, capturando audio sin nuestro concentimiento. Esto constituye una acción ilícita.
+Como el enunciado establece que "luego de unos días" nos enteramos que las cámaras además graban audio, esto quiere decir que éstas estuvieron funcionando, capturando audio sin nuestro consentimiento. Esto constituye una acción ilícita.
+
+3.2 ¿Podría tomar alguna filmación para justificar un despido?
+
+Creo que no, aunque depende mucho de la circunstancia. Si el motivo de despido fuera alguna actividad ilegal desarrollada por un empleado dentro de la empresa, podría llegar a usarse las filmaciones en un juicio contra el empleado, ha habido casos en los que filmaciones y audios grabados sin consentimiento fueron usados como pruebas válidas en casos judiciales.
+
+No obstante, el artículo 53 ampara a los empleados siendo filmados/grabados, pues éstos jamás dieron su consentimiento. Distinto sería si antes de instalar las cámaras se comunicara de las mismas a toda la emprese, pudiendo cada empleado expresar su consentimiento, o iniciar acciones legales.
+
+3.3
+
+Creería que la cosa es distinta, pero no encontré ningún artículo que sirva como justificación :disappointed:
