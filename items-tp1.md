@@ -1,6 +1,6 @@
 1.2. ¿En qué caso podemos solicitar que cesen los olores?
 
-Según el art 1973 podríamos solicitar que cesen los olores en caso de que "excedan la normal tolerancia teniendo en cuenta las condiciones del lugar". Amparados en el art 1886 y buscando la reparación plena de nuestros derechos según el art 1740 podríamos pedir que cesen los olores.
+Según el art 1973 podríamos solicitar que cesen los olores en caso de que "excedan la normal tolerancia teniendo en cuenta las condiciones del lugar". Amparados en el art 1886 que otorga el derecho de hacer valer la preferencia con respecto a un derecho obtenido anteriormente (el del uso de las oficionas) y buscando la reparación plena de nuestros derechos luego de ser los mismos afectados según el art 1740, podríamos pedir que cesen los olores, que se remueva la causa de la molestia o una indemnización como considera el primer artículo (1973). Esto último es consistente con el art 1738 que estipula que la indemnización es una medida a tomar frente a (entre otras) la disminución de los derechos del afectado, en este caso, el uso de su propiedad. 
 
 1.3. ¿Es importante averiguar si la parrilla está habilitada por el GCBA?
 
