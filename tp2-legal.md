@@ -2,7 +2,11 @@
 
 ### a) Dar un ejemplo de hechos jurídicos donde se produzcan cada una de las situaciones mencionadas: Adquisición de derechos, modificación, transferencia y extinción.
 
+Un hecho jurídico que abarcase todas las situaciones mencionadas podría ser el de dos personas contrayendo matrimonio: ambas partes adquieren y modifican diversos derechos, como poder ejercer conjuntamente la patria potestad sobre los hijos, o adquirir derechos de sucesiones sobre el cónyuge; así como también se pueden transferir o extinguir derechos, por ejemplo al ejercer la potestad doméstica o al resultar emancipado alguno de ellos.
+
 ### b) Considerando que la primera clasificación de hechos jurídicos distingue hechos humanos y de la naturaleza, dar un ejemplo de cada uno, indicando su correlativo hecho jurídico.
+
+
 
 ### c) Que 3 elementos resultan fundamentales para que un hecho se considere voluntario, y dar un ejemplo de hecho voluntario e involuntario.
 
