@@ -10,6 +10,8 @@ Un ejemplo de hecho jurídico humano podría ser la firma de un contrato, adquir
 
 ### c) Que 3 elementos resultan fundamentales para que un hecho se considere voluntario, y dar un ejemplo de hecho voluntario e involuntario.
 
+Según el artículo 260, El acto voluntario es el ejecutado con discernimiento (criterio y capacidad de diferenciar y otorgarle un valor moral a una acción), intención y libertad, que se manifiesta por un hecho exterior. Un ejemplo de acto voluntario es la venta de un bien en un comercio o entre particulares, un acto involuntario es el hurto de una mercancía.
+
 ### d) ¿Que condición requiere un hecho para que sea considerado acto jurídico?
 
 ### e) ¿Como de clasifican los actos jurídicos?, dar un ejemplo de cada uno.
