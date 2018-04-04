@@ -18,4 +18,20 @@
 
 ### i) Definir cuales son las fuentes de obligaciones y dar un ejemplo.
 
+Las fuentes de obligaciones se dividen en:
+
+* Tradicionales:
+	- Ley
+	- Contrato
+	- Cuasicontrato
+	- Delito
+	- Cuasidelito
+
+* Modernas:
+	- Enriquecimiento sin causa
+	- Abuso del derecho
+	- Voluntad unilateral
+
 ### j) Dar un ejemplo de extinción de las obligaciones.
+
+La extinción de las obligaciones se puede dar por la renuncia por parte del acreedor. Un ejemplo de este tipo de extinción podría ser el rompimiento voluntario de un contrato por parte del acreedor. De esta manera, el primero está destruyendo la obligación original y libera al deudor de sus obligaciones. Para este caso en particular, se deben eliminar también todas las copias de este contrato para que la extinción sea válida.
