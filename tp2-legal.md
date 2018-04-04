@@ -6,7 +6,7 @@ Un hecho jurídico que abarcase todas las situaciones mencionadas podría ser el
 
 ### b) Considerando que la primera clasificación de hechos jurídicos distingue hechos humanos y de la naturaleza, dar un ejemplo de cada uno, indicando su correlativo hecho jurídico.
 
-
+Un ejemplo de hecho jurídico humano podría ser la firma de un contrato, adquiriendo así sus partes firmantes derechos y obligaciones. Por otro lado, un ejemplo de hecho jurídico natural podría ser alguna catástrofe que provocase alguna moficicación o elminiación de algún derecho, o permitiera ejercer algún otro, como la caída de granizo sobre nuestro auto, estando éste asegurado.
 
 ### c) Que 3 elementos resultan fundamentales para que un hecho se considere voluntario, y dar un ejemplo de hecho voluntario e involuntario.
 
