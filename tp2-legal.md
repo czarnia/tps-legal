@@ -38,11 +38,10 @@ Las fuentes de obligaciones se dividen en:
 
 * Modernas:
 	- Enriquecimiento sin causa: este existe cuando alguien se enriquece indebidamente a expensas de otro.
-
 	- Abuso del derecho: este se da cuando se aplican los derechos de forma irregular.
-
 	- Voluntad unilateral: son los actos jurídicos unilaterales.
 
+* agregar ejemplo *
 
 ### j) Dar un ejemplo de extinción de las obligaciones.
 
