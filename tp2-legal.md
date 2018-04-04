@@ -14,6 +14,8 @@ Según el artículo 260, El acto voluntario es el ejecutado con discernimiento (
 
 ### d) ¿Que condición requiere un hecho para que sea considerado acto jurídico?
 
+Para que un hecho sea considerado un acto jurídico se debe cumplir que el mismo sea voluntario. Dicha condición de voluntad se da cuando el sujeto que comete el hecho lo hace con _intención_ (es decir, sabiendo el propósito de lo que sabía), _libertad_ (eligiendo sin coacción ajena) y _discernimiento_ (pudiendo distinguir lo bueno de lo malo).
+
 ### e) ¿Como de clasifican los actos jurídicos?, dar un ejemplo de cada uno.
 
 ### f) Mencionar los elementos que necesita un acto jurídico y en un ejemplo definir su composición.
