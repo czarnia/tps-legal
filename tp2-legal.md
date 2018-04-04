@@ -33,9 +33,12 @@ Las fuentes de obligaciones se dividen en:
 	- Cuasidelito: se trata del acto ilícito realizado sin la intención de dañar.
 
 * Modernas:
-	- Enriquecimiento sin causa
-	- Abuso del derecho
-	- Voluntad unilateral
+	- Enriquecimiento sin causa: este existe cuando alguien se enriquece indebidamente a expensas de otro.
+
+	- Abuso del derecho: este se da cuando se aplican los derechos de forma irregular.
+
+	- Voluntad unilateral: son los actos jurídicos unilaterales.
+
 
 ### j) Dar un ejemplo de extinción de las obligaciones.
 
