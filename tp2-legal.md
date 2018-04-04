@@ -21,11 +21,11 @@
 Las fuentes de obligaciones se dividen en:
 
 * Tradicionales:
-	- Ley
-	- Contrato
-	- Cuasicontrato
-	- Delito
-	- Cuasidelito
+	- Ley: fuente de todas las otras obligaciones que no surgen de las siguientes.
+	- Contrato: hay un contrato cuando varias personas se ponen de acuerdo sobre una manisfestación de voluntad común, destinada a reglar sus derechos.
+	- Cuasicontrato: el cuasicontrato es un contrato dónde no se tiene en cuenta en su totalidad el deudor (ni su voluntariedad ni su capacidad de cumplir con el deudor).
+	- Delito: se trata del acto ilícito ejecutado a sabiendas y con intención de dañar a la persona o los derechos de otro.
+	- Cuasidelito: se trata del acto ilícito realizado sin la intención de dañar.
 
 * Modernas:
 	- Enriquecimiento sin causa
