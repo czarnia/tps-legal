@@ -16,6 +16,20 @@
 
 ### h) Definir los 3 tipos de obligaciones existentes y dar un ejemplo de cada una.
 
+Los tipos de obligaciones sa clasifican por:
+
+* Según sus efectos:
+	- Civiles:
+	- Naturales:
+
+* Según su dependencia:
+	- Principales:
+	- Accesorias:
+
+* Según el vínculo entre los sujetos pasivos:
+	- Mancomunadas:
+	- Solidarias:
+
 ### i) Definir cuales son las fuentes de obligaciones y dar un ejemplo.
 
 Las fuentes de obligaciones se dividen en:
@@ -28,9 +42,11 @@ Las fuentes de obligaciones se dividen en:
 	- Cuasidelito: se trata del acto ilícito realizado sin la intención de dañar.
 
 * Modernas:
-	- Enriquecimiento sin causa
-	- Abuso del derecho
-	- Voluntad unilateral
+	- Enriquecimiento sin causa: este existe cuando alguien se enriquece indebidamente a expensas de otro.
+	- Abuso del derecho: este se da cuando se aplican los derechos de forma irregular.
+	- Voluntad unilateral: son los actos jurídicos unilaterales.
+
+%PONER EJEMPLO
 
 ### j) Dar un ejemplo de extinción de las obligaciones.
 
