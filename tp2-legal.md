@@ -16,19 +16,10 @@
 
 ### h) Definir los 3 tipos de obligaciones existentes y dar un ejemplo de cada una.
 
-Los tipos de obligaciones sa clasifican por:
-
-* Según sus efectos:
-	- Civiles:
-	- Naturales:
-
-* Según su dependencia:
-	- Principales:
-	- Accesorias:
-
-* Según el vínculo entre los sujetos pasivos:
-	- Mancomunadas:
-	- Solidarias:
+Los tres tipos de obligaciones son:
+* Obligación de dar: implica transferir una cosa al otro. Por ejemplo, al hacer entrega de un equipo vendido.
+* Obligación de hacer: consiste en la prestación de un servicio o la realización de un hecho determinado. Por ejemplo, una instalación o una construcción.
+* Obligación de no hacer: implica una abstención. Por ejemplo, no utilizar determinados materiales para la fabricación de algún artículo.
 
 ### i) Definir cuales son las fuentes de obligaciones y dar un ejemplo.
 
@@ -42,11 +33,9 @@ Las fuentes de obligaciones se dividen en:
 	- Cuasidelito: se trata del acto ilícito realizado sin la intención de dañar.
 
 * Modernas:
-	- Enriquecimiento sin causa: este existe cuando alguien se enriquece indebidamente a expensas de otro.
-	- Abuso del derecho: este se da cuando se aplican los derechos de forma irregular.
-	- Voluntad unilateral: son los actos jurídicos unilaterales.
-
-%PONER EJEMPLO
+	- Enriquecimiento sin causa
+	- Abuso del derecho
+	- Voluntad unilateral
 
 ### j) Dar un ejemplo de extinción de las obligaciones.
 
