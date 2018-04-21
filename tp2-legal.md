@@ -50,38 +50,22 @@ b) DE ÚLTIMA VOLUNTAD: son actos de ultima voluntad aquellos que producen sus e
 ### f) Mencionar los elementos que necesita un acto jurídico y en un ejemplo definir su composición.
 
 Los tres elementos que necesita un acto jurídico son:
-a)Sujeto: el que ejerce el acto. Debe tener voluntad jurídica, como ya se explicó. Debe ser titular del derecho y estar facultado para ejercerlo.
+1- Sujeto: el que ejerce el acto. Debe tener voluntad jurídica, como ya se explicó. Debe ser titular del derecho y estar facultado para ejercerlo.
 Por ejemplo si Juan contrata a un albañil para construir su casa, Juan y el albañil, serán los sujetos o partes del acto. Si Juan hace un testamento será él, el único sujeto de ese acto jurídico. Los terceros pueden verse afectados por ese acto, pero en casos excepcionales, como por ejemplo, si como consecuencia de la construcción que hace para Juan el albañil, se producen daños en la casa del vecino, pero en este caso ya se generará una relación obligacional entre Juan y su vecino, donde él también será parte, pero como víctima de un cuasidelito y no de un acto jurídico, ya que aquí hubo ausencia de voluntad por parte de ambos, de crear efectos jurídicos.
 
-b)Objeto: debe ser una cosa que esté en el comercio o que no se haya prohibido que sea objeto de un acto jurídico. De lo contrario los actos jurídicos se consideran nulos, como si no tuviesen objeto.
+2- Objeto: debe ser una cosa que esté en el comercio o que no se haya prohibido que sea objeto de un acto jurídico. De lo contrario los actos jurídicos se consideran nulos, como si no tuviesen objeto.
 
-c)Forma: conjunto de prescripciones de la ley, respecto de las solemnidades que deben observarse al tiempo de la formación del acto jurídico, como la escritura del acto, la presencia de testigos, que el acto sea hecho por escribano público o por unoficial público, o con el concurso del juez del lugar. Hay actos jurídicos formales, con requerimientos explícitos por la ley, y no formales, donde la elección de la forma se deja librada a la voluntad de las partes.
+3- Forma: conjunto de prescripciones de la ley, respecto de las solemnidades que deben observarse al tiempo de la formación del acto jurídico, como la escritura del acto, la presencia de testigos, que el acto sea hecho por escribano público o por unoficial público, o con el concurso del juez del lugar. Hay actos jurídicos formales, con requerimientos explícitos por la ley, y no formales, donde la elección de la forma se deja librada a la voluntad de las partes.
 
 Por ejemplo, si el Estado contrata a una empresa privada para la construcción de, por ejemplo, un puente, tanto la empresa como el Estado serán sujetos del acto jurídico. La obra en sí, por su parte, es el objeto del acto; y la forma estará dada por toda la documentación y las acciones efectuadas según lo previsto por la ley y las partes (por ejemplo, que los ingenieros firmen los planos de la obra, que la celebración del contrato se realice según lo previsto por la ley, etc.).
 
 ### g) Mencione los vicios a la voluntad y las consecuencias legales que generan, dar un ejemplo de cada uno.
 
-Hay n tipos de vicios a la voluntad. Los errores, el dolo y la violencia. Cada uno tiene distintas incumbencias y consecuencias legales.
+Hay tres vicios a la voluntad: el error, el dolo y la violencia. Cada uno tiene distintas incumbencias y consecuencias legales.
 
-- Errores
-    - Art 265 y 266. El error refiere al falso conocimiento de la realidad de las cosas. Afecta a la voluntad de las personas impactando en su intención. El error de hecho es aquel recae sobre el contenido del acto en sí.
-    Un error de hecho esencial, de ser reconocido por el destinatario, es causa de nulidad del acto por vicio a la voluntad. Un error se clasifica como esencial si refiere a un aspecto que se haya tenido en cuenta a la hora de realizar el acto.
-- Dolo
-    - Art 271. Acción dolosa es toda afirmación de lo falso o disimulación de lo verdadero (mentir). La omisión dolosa tiene los mismos efectos si la omisión de tal omisión hubiera provocado que el acto no se realice.
-    - También hay dolo esencial o incidental: es esencial cuando tiene un rol determinante en la voluntad; y está directamente relacionado con la realización del acto.
-    - Como con los errores: el dolo esencial es causa de vicio a la voluntad, mientras que el incidental no afecta a la validez del acto.
-- Violencia
-    - Art 276. Sobre fuerzas irresistibles y amenazas. Una situación de amenaza o intimidación puede ser causa de nulidad del acto, pero la relevancia de las mismas debe ser juzgada dependiendo de las circunstancias.
-
-Siempre el causante del dolo, intimidación u error deben reparar los daños en caso de no ampararse la nulidad del acto.
-
-
-Los ejemplos:
-
-Error: compré una placa de video incompatible con mi placa madre (error de hecho esencial)
-Dolo: engañar a los compradores con falsa publicidad sobre un producto (dolo activo/pasivo esencial)
-Amenaza: obligar a hacer algo a punta de pistola
-
+1- Error: refiere al falso conocimiento de la realidad de las cosas. Afecta a la voluntad de las personas impactando en su intención. El error de hecho es aquel que recae sobre el contenido del acto en sí. Un error de hecho esencial, de ser reconocido por el destinatario, es causa de nulidad del acto por vicio a la voluntad. Un error se clasifica como esencial si refiere a un aspecto que se haya tenido en cuenta a la hora de realizar el acto. Por ejemplo, si se compra una placa de video incompatible con determinado equipo, o si se acepta un empréstito sin saber la diferencia entre éste y una donación.
+2- Dolo: abarca toda astucia o artificio usado para ocultar o engañar. Es toda afirmación de lo falso o disimulación de lo verdadero. El dolo es esencial cuando tiene un rol determinante en la voluntad, y está directamente relacionado con la realización del acto. Así, el dolo esencial es causa de vicio a la voluntad. Un ejemplo podría ser si se usa publicidad engañosa para que alguien compre determinado producto que, en caso de no haber existido dicha publicidad, no hubiera pensado nunca en adquirirlo.
+3- Violencia: es toda intimidación física o moral. Una situación de amenaza o intimidación puede ser causa de nulidad del acto, pero la relevancia de las mismas debe ser juzgada dependiendo de las circunstancias. Por ejemplo, firmar un contrato a punta de pistola
 
 ### h) Definir los 3 tipos de obligaciones existentes y dar un ejemplo de cada una.
 
@@ -94,17 +78,17 @@ Los tres tipos de obligaciones son:
 
 Las fuentes de obligaciones se dividen en:
 
-* Tradicionales:
-	- Ley: fuente de todas las otras obligaciones que no surgen de las siguientes. Por ejemplo, la venta de drogas está penada por la ley, generando una obligación de no hacer.
-	- Contrato: hay un contrato cuando varias personas se ponen de acuerdo sobre una manisfestación de voluntad común, destinada a reglar sus derechos. Por ejemplo, en el contrato del ítem f la empresa constructora está obligada a realizar el puente, y el Estado nacional a pagarle.
-	- Cuasicontrato: el cuasicontrato es un contrato dónde no se tiene en cuenta en su totalidad el deudor (ni su voluntariedad ni su capacidad de cumplir con el deudor). Un ejemplo podría ser una promoción durante la consulta del presupuesto de la construcción del puente del ítem f: cuando el Estado le consulta el presupuesto a la empresa, ésta le response que si la contratan antes de fin de mes, el valor de la prestación será menor. Así, la empresa pasa a tener la obligación de respetar ese precio, si es contratada antes del plazo estipulado.
-	- Delito: se trata del acto ilícito ejecutado a sabiendas y con intención de dañar a la persona o los derechos de otro. Por ejemplo, si soy condenado luego de un homicidio, estoy obligado a cumplir mi condena.
-	- Cuasidelito: se trata del acto ilícito realizado sin la intención de dañar. Por ejemplo, un cirujano debe responder ante la justicia si durante una operación se le muere el paciente por negligencia.
+1- Tradicionales:
+a) Ley: fuente de todas las otras obligaciones que no surgen de las siguientes. Por ejemplo, la venta de drogas está penada por la ley, generando una obligación de no hacer.
+b) Contrato: hay un contrato cuando varias personas se ponen de acuerdo sobre una manisfestación de voluntad común, destinada a reglar sus derechos. Por ejemplo, en el contrato del ítem f la empresa constructora está obligada a realizar el puente, y el Estado nacional a pagarle.
+c) Cuasicontrato: el cuasicontrato es un contrato dónde no se tiene en cuenta en su totalidad el deudor (ni su voluntariedad ni su capacidad de cumplir con el deudor). Un ejemplo podría ser una promoción durante la consulta del presupuesto de la construcción del puente del ítem f: cuando el Estado le consulta el presupuesto a la empresa, ésta le response que si la contratan antes de fin de mes, el valor de la prestación será menor. Así, la empresa pasa a tener la obligación de respetar ese precio, si es contratada antes del plazo estipulado.
+d) Delito: se trata del acto ilícito ejecutado a sabiendas y con intención de dañar a la persona o los derechos de otro. Por ejemplo, si soy condenado luego de un homicidio, estoy obligado a cumplir mi condena.
+e) Cuasidelito: se trata del acto ilícito realizado sin la intención de dañar. Por ejemplo, un cirujano debe responder ante la justicia si durante una operación se le muere el paciente por negligencia.
 
-* Modernas:
-	- Enriquecimiento sin causa: este existe cuando alguien se enriquece indebidamente a expensas de otro. Cualquiera de los muchos casos actuales relacionados a políticos podría servir de ejemplo.
-	- Abuso del derecho: este se da cuando se aplican los derechos de forma irregular. Éste es el caso del dueño de la parrilla del trabajo anterior: no realizaba ninguna actividad ilítica, pero su derecho perturbaba a los del edificio aledaño. Así, el dueño de la parrilla podría verse obligado a reducir las emanaciones del humo.
-	- Voluntad unilateral: son los actos jurídicos unilaterales. Por ejemplo, cuando una empresa de viajes celebra un sorteo y se compromete a entregar pasajes al ganador.
+2- Modernas:
+a) Enriquecimiento sin causa: este existe cuando alguien se enriquece indebidamente a expensas de otro. Cualquiera de los muchos casos actuales relacionados a políticos podría servir de ejemplo.
+b) Abuso del derecho: este se da cuando se aplican los derechos de forma irregular. Éste es el caso del dueño de la parrilla del trabajo anterior: no realizaba ninguna actividad ilítica, pero su derecho perturbaba a los del edificio aledaño. Así, el dueño de la parrilla podría verse obligado a reducir las emanaciones del humo.
+c) Voluntad unilateral: son los actos jurídicos unilaterales. Por ejemplo, cuando una empresa de viajes celebra un sorteo y se compromete a entregar pasajes al ganador.
 	
 ### j) Dar un ejemplo de extinción de las obligaciones.
 
