@@ -8,112 +8,44 @@ Un hecho jurídico que abarcase todas las situaciones mencionadas podría ser el
 
 Un ejemplo de hecho jurídico humano podría ser la firma de un contrato, adquiriendo así sus partes firmantes derechos y obligaciones. Por otro lado, un ejemplo de hecho jurídico natural podría ser alguna catástrofe que provocase alguna moficicación o elminiación de algún derecho, o permitiera ejercer algún otro, como la caída de granizo sobre nuestro auto, estando éste asegurado.
 
-Hecho humano: firma de un contrato, la venta de un inmueble
-Hecho natural: alcanzar la mayoría de edad
-
 ### c) Que 3 elementos resultan fundamentales para que un hecho se considere voluntario, y dar un ejemplo de hecho voluntario e involuntario.
 
-Según el artículo 260, El acto voluntario es el ejecutado con discernimiento (criterio y capacidad de diferenciar y otorgarle un valor moral a una acción), intención y libertad, que se manifiesta por un hecho exterior. Un ejemplo de acto voluntario es la venta de un bien en un comercio o entre particulares, un acto involuntario es el hurto de una mercancía.
-
-Discernimiento -> puedo apreciar las consecuencias de mis acciones. Default: on
-Intención -> hay coherencia entre el fin del acto y los resultados. Default: on
-Libertad -> self explanatory. Default: on
+Según el artículo 260, el acto voluntario es aquel que es ejecutado con discernimiento (criterio y capacidad de apreciar las consecuencias buenas y malas de mis acciones), intención (conocimiento y coherencia del propósito de realizar el acto) y libertad (no existe coacción sobre la persona). Un ejemplo de acto voluntario es la venta de un bien en un comercio o entre particulares; y el de un acto involuntario podría ser el de dañar un equipo o una antigüedad ajena al ser empujado por alguien más.
 
 ### d) ¿Que condición requiere un hecho para que sea considerado acto jurídico?
 
-Según el art. 259 para que un hecho sea considerado un acto jurídico se debe cumplir que el mismo sea voluntario y lícito; y tener como finalidad que se produzca un adquisición, modificación, o extinción en los derechos u obligaciones.
-
-Dicha condición de voluntad es la misma que que en el punto b) y se da cuando el sujeto que comete el hecho lo hace con _intención_ (es decir, sabiendo el propósito de lo que sabía), _libertad_ (eligiendo sin coacción ajena) y _discernimiento_ (pudiendo distinguir lo bueno de lo malo).
+Según el art. 259 para que un hecho sea considerado un acto jurídico se debe cumplir que el mismo sea voluntario y lícito; y tener como finalidad que se produzca una adquisición, modificación, o extinción en los derechos u obligaciones (por ejemplo, un contrato). Dicha condición de voluntad es la misma que la expresada en el ítem anterior.
 
 ### e) ¿Como se clasifican los actos jurídicos?, dar un ejemplo de cada uno.
-ejemplos de actos jurídico:
-La constitución de una sociedad de responsabilidad limitada (SRL)
-La registración del nacimiento de un niño
-La renegociación de los intereses de una deuda
-El arrendamiento de un terreno para producir
-La compra de un inmueble
-El pago de una deuda
-La transmisión de un vehículo a un pariente, aunque no haya habido dinero en la transacción
-Alquiler de un departamento para pasar unas vacaciones
-El matrimonio civil entre dos personas
-El nacimiento de una relación de trabajo por medio de un contrato
-La firma de un acuerdo de libre comercio entre dos países
-El registro de una propiedad intelectual
-El divorcio entre dos personas
-El registro de una defunción de una persona
-Firma de un crédito hipotecario
-Pago de una fianza
-La compra de un fondo de comercio por parte de una empresa
-Convocatoria de acreedores en un proceso de quiebra
-La firma de un contrato de prestación de un servicio de seguro
-La cesión de los derechos sobre una obra de cualquier tipo
 
-//positivos-negativos(art. 945); uni-bi-pluri lateralesartículo 946; inter-vivos - mortis causa/ultima voluntad artículo 947; onerosos- gratuitos, formales o no formales;patrimoniales-extrapatrimoniales; puros o simples - madales
-
-1- Según el numero de personas que participan en el:
-a)UNILATERALES: los actos son unilaterales cuando se celebran con la expresión de voluntad de una sola persona.
-Ejemplo: Redactar un testamento, Reconocer una deuda, Otorgar un poder.
-b)BILATERALES: los actos son bilaterales cuando se celebran con la expresión de voluntad de mas de una persona.
-Ejemplo: El contrato de compraventa, El contrato de trabajo, El matrimonio.
-Unilaterales o bilaterales:según baste para formarlos, la voluntad de una sola persona (ejemplo: testamento) o requieran el consentimiento unánime de dos o más personas.
-	Ejemplos de actos jurídicos unilaterales: La oferta o policitación. La aceptación. El Testamento. El reconocimiento de un hijo. Registro de nacimiento. Registro de defunción. El divorcio unilateral. Registro de derechos de autor. Registro de propiedad intelectual. Registro de una patente. Registro de la propiedad ante notario público.
-	Ejemplos de actos jurídicos bilaterales: Registro de contratos ante notario público. Traslado de dominio. Enajenación temporal del uso o goce de algo. Restitución de lo ajeno. Pago de lo debido. Registro de una empresa. El Matrimonio Civil. El Divorcio en el que intervienen ambas partes. Un contrato mercantil. Contrato de trabajo. Contrato de compra venta de un automóvil. Contrato de un crédito. Contrato de una inversión a plazos. Contrato de compra venta de una casa. Contrato de seguro de vida. Contrato de prestación de servicios entre dos personas. Contrato de hospitalización. Una fianza. Una permuta. Una cesión de derechos.
-unilaterales (surgen por la voluntad de una única parte), bilaterales (requieren del consentimiento de un mínimo de dos partes),
+1- Según el número de personas que participan en él:
+a) UNILATERALES: los actos son unilaterales cuando se celebran con la expresión de voluntad de una sola persona. Por ejemplo, redactar un testamento.
+b) BILATERALES: los actos son bilaterales cuando se celebran con la expresión de voluntad de mas de una persona. Por ejemplo, un contrato de compraventa, o el matrimonio.
 
 2- Según el modo de exteriorización:
-a)POSITIVOS: los actos son positivos cuando el nacimiento, modificación o extinción de un derecho depende de la realización de un acto.
-Ejemplo:La entrega de una suma de dinero, La realización de un trabajo, La firma de un pagare.
-b)NEGATIVOS: los actos son negativos cuando el nacimiento, modificación o extinción de un derecho depende de la abstención u omisión de una conducta.
-Ejemplo:“Juan es propietario de una casa y decide alquilarla a Pedro, en este caso Juan debe abstenerse, es decir no debe molestar ni perturbar a Juan que es el inquilino, el derecho de uso o posesión sobre la casa”.
-Juan cumple con su obligación no molestando a Pedro.
-	Positivos o negativos: según sea necesaria la realización u omisión de un acto para que un derecho comience o acabe.
-		por ejemplo, la firma de un pagaré, la entrega de una suma de dinero, la realización de un trabajo o de una obra de arte.
-		El propietario de una casa alquilada a una tercero debe abstenerse de perturbarlo en el goce de ella; en este hecho negativo, en esta abstención, consiste el cumplimiento de su obligación.
-	positivos (su éxito depende de la realización del acto), negativos (suponen una omisión o abstención),
+a) POSITIVOS: los actos son positivos cuando el nacimiento, modificación o extinción de un derecho depende de la realización de un acto. Por ejemplo, la entrega de una suma de dinero o la realización de un trabajo.
+b) NEGATIVOS: los actos son negativos cuando el nacimiento, modificación o extinción de un derecho depende de la abstención u omisión de una conducta. Por ejemplo: “Juan es propietario de una casa y decide alquilarla a Pedro, en este caso Juan debe abstenerse, es decir no debe molestar ni perturbar a Juan que es el inquilino, el derecho de uso o posesión sobre la casa”.
 
 3- Según la forma:
-a)FORMALES: los actos son formales cuando su eficacia depende del cumplimiento de los requisitos formales establecidos por la ley.
-Ejemplo:La compra de una casa a través de escritura publica, El matrimonio debe celebrarse ante un funcionario del Registro Civil, El divorcio debe ser declarado judicialmente siguiendo un procedimiento.
-b)NO FORMALES: los actos son no formales cuando su eficacia o valides no depende del cumplimiento de una forma establecida por la ley.
-Ejemplo:El contrato de alquiler
-El usufructo: Ana acuerda con su hermana Maria un usufructo verbal, mediante el cual Ana deja que Maria use y disfrute de su cocina hasta que esta pueda comprar una; Ana y Maria realizaron un mutuo acuerdo en forma independiente.
-La permuta: Pedro y Juan trabajan en el mercado, ambos realizaron un trueque y decidieron cambiar un cajón de manzanas por un cajón de naranjas, al realizar este intercambio, ambos manifestaron su voluntad independientemente y llegaron a un acuerdo sin cumplir ninguna formalidad.
-Pueden ser formales (en los cuales la eficacia está atada a las formalidades establecidas y contempladas por la ley), otros pueden ser no formales (en ellos, su posible validez no depende de la solemnidad),
+a) FORMALES: los actos son formales cuando su eficacia depende del cumplimiento de los requisitos formales establecidos por la ley. Por ejemplo, la compra de una casa a través de escritura publica, o el matrimonio que debe celebrarse ante un funcionario del Registro Civil.
+b) NO FORMALES: los actos son no formales cuando su eficacia o validez no depende del cumplimiento de una forma establecida por la ley. Por ejemplo, un contrato de alquiler.
 
 4- Según la influencia sobre el patrimonio:
-a)DE ADMINISTRACION: son actos de administración aquellos que mantienen la integridad del patrimonio y no lo modifican, estos actos se relacionan con el rendimiento y conservación del patrimonio.
-Ejemplo:El pago de impuestos, El cobro de una deuda.
-b)DE DISPOSICION: son actos de disposición aquellos que tienden a disminuir o modificar sustancialmente el patrimonio.
-Ejemplo:La venta de una casa, La venta de un auto, La donación, El perdón de una deuda.
+a) DE ADMINISTRACION: son actos de administración aquellos que mantienen la integridad del patrimonio y no lo modifican, estos actos se relacionan con el rendimiento y conservación del patrimonio. Por ejemplo, el pago de impuestos o el cobro de una deuda.
+b) DE DISPOSICION: son actos de disposición aquellos que tienden a disminuir o modificar sustancialmente el patrimonio. Por ejemplo, la venta de una casa, o el perdón de una deuda.
 
 5- Según las prestaciones de las partes:
-a)A TITULO ONEROSO: son actos a titulo oneroso aquellos en los cuales todas las partes que intervienen en el realizan prestaciones reciprocas.
-Ejemplo:La compraventa: el comprador se obliga a pagar el precio por la cosa y el vendedor se obliga a entregar la cosa.
-La locacion: el propietario de una casa le da al inquilino y a su vez el inquilino le paga una suma de dinero en concepto de alquiler.
-b)A TITULO GRATUITO: son actos a titulo gratuito aquellos en los cuales solo una de las partes realiza una prestación, es decir una de las partes  beneficia a la otra sin esperar nada a cambio.
-Ejemplo:
-La donación, La renuncia a un derecho, La herencia.
-gratuitos (la obligación recae sobre una única parte, sin importar cuántas estén involucradas) u onerosos (obligaciones recíprocas).
+a) A TITULO ONEROSO: son actos a titulo oneroso aquellos en los cuales todas las partes que intervienen en el realizan prestaciones reciprocas. Por ejemplo, la compraventa: el comprador se obliga a pagar el precio por la cosa y el vendedor se obliga a entregar la cosa.
+b) A TITULO GRATUITO: son actos a titulo gratuito aquellos en los cuales solo una de las partes realiza una prestación, es decir una de las partes  beneficia a la otra sin esperar nada a cambio. Por ejemplo, una donación.
 
 6- Según el grado de dependencia:
-a)PRINCIPALES: son actos principales aquellos que existen por si mismos, es decir cuando su existencia no depende de ningún otro acto.
-Ejemplo:
-El contrato de alquiler, La cesión de derechos, La compraventa.
-b)ACCESORIOS: los actos son accesorios cuando su existencia depende de otro acto, no existen por si mismos, estos actos siguen la suerte del acto principal, es decir que cuando el acto principal no es valido, el acto accesorio tampoco lo será.
-Los actos accesorios tienen por finalidad asegurar el cumplimiento de una obligación principal.
-Ejemplo:La fianza, La prenda, La hipoteca
-La hipoteca: la hipoteca garantiza el cumplimiento de una  obligación  principal: si se paga la deuda (principal), se extingue la hipoteca (accesoria).
+a)PRINCIPALES: son actos principales aquellos que existen por si mismos, es decir cuando su existencia no depende de ningún otro acto. Por ejemplo: el contrato de alquiler, la cesión de derechos, la compraventa.
+b) ACCESORIOS: los actos son accesorios cuando su existencia depende de otro acto. No existen por si mismos; estos actos siguen la suerte del acto principal, es decir que cuando el acto principal no es valido, el acto accesorio tampoco lo será.
+Los actos accesorios tienen por finalidad asegurar el cumplimiento de una obligación principal. Por ejemplo, una fianza o una hipoteca.
 
 7-Según el momento de su eficacia:
-a)ENTRE VIVOS: son actos entre vivos aquellos cuyos efectos se producen sin depender desfallecimiento de una parte.
-Ejemplo:El contrato de alquiler, El matrimonio.
-b)DE ULTIMA VOLUNTAD: son actos de ultima voluntad aquellos que producen sus efectos después del fallecimiento de uno de los sujetos que lo realizaron.
-Ejemplo:El testamento: produce sus efectos después del fallecimiento de disponente.
-Actos entre vivos y de última voluntad:según si la eficacia del acto jurídico depende del fallecimiento de aquellos de cuya voluntad emanan.
-	El testamento es el típico ejemplo de los actos mortis causa.
-
-patrimoniales (de contenido económico), familiares (derechos y deberes de familia),
-
+a) ENTRE VIVOS: son actos entre vivos aquellos cuyos efectos se producen sin depender desfallecimiento de una parte. Por ejemplo, el matrimonio.
+b) DE ÚLTIMA VOLUNTAD: son actos de ultima voluntad aquellos que producen sus efectos después del fallecimiento de uno de los sujetos que lo realizaron. Por ejemplo, el testamento.
 
 ### f) Mencionar los elementos que necesita un acto jurídico y en un ejemplo definir su composición.
 
