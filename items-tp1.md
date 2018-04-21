@@ -1,11 +1,10 @@
 ### 1.2. ¿En qué caso podemos solicitar que cesen los olores?
 
-Según el art 1973 podríamos solicitar que cesen los olores en caso de que "excedan la normal tolerancia teniendo en cuenta las condiciones del lugar". Amparados en el art 1886 que otorga el derecho de hacer valer la preferencia con respecto a un derecho obtenido anteriormente (el del uso de las oficionas) y buscando la reparación plena de nuestros derechos luego de ser los mismos afectados según el art 1740, podríamos pedir que cesen los olores, que se remueva la causa de la molestia o una indemnización como considera el primer artículo (1973). Esto último es consistente con el art 1738 que estipula que la indemnización es una medida a tomar frente a (entre otras) la disminución de los derechos del afectado, en este caso, el uso de su propiedad.
+Según el art 1973 podríamos solicitar que cesen los olores en caso de que "excedan la normal tolerancia teniendo en cuenta las condiciones del lugar". Amparados en el art 1886 que otorga el derecho de hacer valer la preferencia con respecto a un derecho obtenido anteriormente (el del uso de las oficionas) y buscando la reparación plena de nuestros derechos luego de ser los mismos afectados según el art 1740, podríamos pedir que cesen los olores, que se remueva la causa de la molestia o una indemnización como considera el primer artículo. Esto último es consistente con el art 1738 que estipula que la indemnización es una medida a tomar frente a la disminución de los derechos del afectado (en este caso, el uso de su propiedad).
 
 ### 1.3. ¿Es importante averiguar si la parrilla está habilitada por el GCBA?
 
-No, porque según los artículos 1737 y 1738 estamos recibiendo un daño y tiene que haber una reparación sin importar si la parrilla está habilitada o no.
-En particular, el artículo que otorga derecho a solicitar que cesen los olores determina que esto se puede pedir en el caso de que los mismos excedan la normal tolerancia, sin mencionar si los causantes de esta molestia tuviesen o no permisos.  Además, en el mismo artículo se enuncia que se puede solicitar el cese de olores "aunque medie autorización administrativa".
+Si bien los artículos 1737 y 1738, al estar recibiendo un daño debe existir una reparación sin importar si la parrilla está habilitada o no (se utiliza la frase "aunque medie autorización administrativa"). No obstante, si la parrilla no estuviese habilitada, esto podría ayudarnos en el armado de nuestro caso para solicitar inmediatamente que cese su funcionamiento (pues está operando sin los permisos pertinentes), lo cual por supuesto es nuestro deseo.
 
 ### 2.2. ¿Qué acciones podríamos tomar ante esta situación?
 
